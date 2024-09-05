@@ -1,5 +1,7 @@
 # <p align="center">How to install apps?
 
+Note: These images and videos is intended for Extended, But it also applies to ReReX.
+
 ### For installing with ReVanced Manager, please [follow this tutorial](https://mega.nz/file/3SAjiIxQ#0dWhhwk5TIEMRz4jct2ztZA1w-bbotf8tEBEzxd1C1Y)
 Links: [ReVanced Manager](https://github.com/ReVanced/revanced-manager/releases/latest), [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest).
 #
