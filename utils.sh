@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 
 MODULE_TEMPLATE_DIR="revanced-magisk"
