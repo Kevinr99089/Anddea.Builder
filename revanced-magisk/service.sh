@@ -1,4 +1,3 @@
-
 #!/system/bin/sh
 MODDIR=${0%/*}
 RVPATH=/data/adb/rvhc/${MODDIR##*/}.apk
