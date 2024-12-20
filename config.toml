@@ -1,12 +1,14 @@
 # ⚠️ Only non-root builds (Can be used on rooted device).
 
-[YT] # Default patches are applied, Exception for lines 4 & 5 :
+[YT] # Default patches are applied, Exception for lines 5 & 6 :
+patches-version = "dev"
 included-patches = "'Custom branding icon for YouTube' 'Visual preferences icons'"
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
 patcher-args = "-AppIcon=xisr_yellow -ChangeHeader=xisr_yellow -SelectedLanguages=fr-rFR -SelectedAppLanguages=fr "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
-[Music] # Default patches are applied, Exception for lines 09 & 10 :
+[Music] # Default patches are applied, Exception for lines 12 & 13 :
+patches-version = "dev"
 included-patches = "'Custom branding icon for YouTube Music' 'Custom header for YouTube Music'"
 excluded-patches = "'Custom branding name for YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
