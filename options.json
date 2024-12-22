@@ -1,0 +1,42 @@
+[
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "xisr_yellow"
+      },
+      {
+        "key": "ChangeHeader",
+        "value": "xisr_yellow"
+      }
+    ]
+  },
+  {
+    "patchName": "Translations",
+    "options": [
+      {
+        "key": "SelectedLanguages",
+        "value": "fr-rFR"
+      },
+      {
+        "key": "SelectedAppLanguages",
+        "value": "fr"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "revancify_yellow"
+      },
+      {
+        "key": "ChangeHeader",
+        "value": "revancify_yellow"
+      }
+    ]
+  }
+]
+        
