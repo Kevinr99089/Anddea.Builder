@@ -1,5 +1,7 @@
 # <p align="center"> Welcome to Anddea.Builder🛠️
 
+<p align="center"> I'm thinking of closing this repository, I no longer use Anddea
+
 ## <p align="center"> Available apps :
 - YT and YT Music (Arm64-v8a).
 > To use these applications, you need to install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest). View [applied patches](https://github.com/kevinr99089/Anddea.Builder/blob/main/config.toml).
