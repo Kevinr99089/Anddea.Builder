@@ -1,6 +1,6 @@
 # <p align="center"> Welcome to Anddea.Builder🛠️
 
-<p align="center"> I'm thinking of closing this repository.
+<p align="center"> This repository will be archived on February 01, 2025.
 
 ## <p align="center"> Available apps :
 - YT and YT Music (Arm64-v8a).
