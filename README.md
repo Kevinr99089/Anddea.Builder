@@ -11,7 +11,7 @@
 
 - [Install Anddea](https://github.com/kevinr99089/Anddea.Builder/blob/main/install.md)
 
-- [Builds for ReVanced](https://github.com/Kevinr99089/ReVanced.Builder), [Builds for Extended](https://github.com/Kevinr99089/Extended.Builder).
+- [Builds for ReVanced](https://github.com/Kevinr99089/ReVanced.Builder) (unavailable), [Builds for Extended](https://github.com/Kevinr99089/Extended.Builder).
 
 ## <p align="center"> Thanks to :
 >[!NOTE]
